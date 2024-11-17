@@ -3,4 +3,4 @@
 
 import os
 import FX
-FX.loging()
+FX.loging.()
